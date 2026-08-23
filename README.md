@@ -32,7 +32,7 @@
 ###### That's all then press Enter
 ------------------------------------------------
 5. In 1 or 2 minutes I had the username and the password
-![[Screenshot 2026-08-23 19352 2.png]]
+<img width="787" height="97" alt="Screenshot 2026-08-23 19352 2" src="https://github.com/user-attachments/assets/cf8ca954-d93a-470e-8256-346b3efacac9" />
 6.  Now I had to know if the admin used this password anywhere else so I went to http://10.114.184.54 in Firefox and tried the password on another user ***factory*** and it worked 
-![[Screenshot 2026-08-23 19441.png]]
+<img width="1914" height="383" alt="Screenshot 2026-08-23 19441" src="https://github.com/user-attachments/assets/f1e38f95-3312-4dfd-8c50-0a2e647c8437" />
 7. Here I was able to see the total number of toys expected for delivery and it was the last question
